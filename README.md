@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=47576e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ecf3ff&size=35&center=true&vCenter=true&width=1000&lines=Hi!++My+name+is+Leandro+Bona;I'm+25+years+old;I'm+from+Brazil;I'm+Graduated+in+Software+Engineer;Post+Graduated+in:;Infomartion+Security+and;Mobile+Applications;🤘)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ecf3ff&size=35&center=true&vCenter=true&width=1000&lines=Hi!++My+name+is+Leandro+Bona;I'm+25+years+old;I'm+from+Brazil;I'm+Graduated+in+Software+Engineering;Post+Graduated+in:;Information+Security+and;Mobile+Applications;🤘)](https://git.io/typing-svg)
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/leandrobonadasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
