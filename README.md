@@ -14,7 +14,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leandroBona&bg_color=161b22&color=c9d1d9&line=2e3948&point=5e7594&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- 
+ <div align="center>
  ### Main skills:
 ![SalesForce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -38,7 +38,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 ![KALI](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
-
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
