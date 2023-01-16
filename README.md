@@ -3,18 +3,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ecf3ff&size=35&center=true&vCenter=true&width=1000&lines=Hi!++My+name+is+Leandro+Bona;I'm+25+years+old;I'm+from+Brazil;I'm+Graduated+in+Software+Engineering;Post+Graduated+in:;Information+Security+and;Mobile+Applications;🤘)](https://git.io/typing-svg)
 
 <div align="center"> 
-<a href="https://www.linkedin.com/in/leandrobonadasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/leandrobonadasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> <br><br>
 </div>
 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leandrobona&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=c9d1d9&text_color=c9d1d9&bg_color=2e3948" alt="Maria Eduarda's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrobona&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=2e3948" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrobona&layout=compact&hide_border=true&title_color=c9d1d9&text_color=c9d1d9&bg_color=2e3948" />
 </div
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leandroBona&bg_color=161b22&color=c9d1d9&line=2e3948&point=5e7594&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- <div align="center>
+ <div align="center">
+   
  ### Main skills:
 ![SalesForce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
